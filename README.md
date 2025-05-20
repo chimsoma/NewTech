@@ -1,0 +1,2 @@
+# NewTech
+For Learning Purpose
